@@ -1,8 +1,8 @@
 ### Hi, I'm Bohdan 👋
 
-Junior Systems / Linux Infrastructure Engineer & Cybersecurity M.S. Student at Kharkiv National University of Radio Electronics (NURE).
+Junior Systems / Infrastructure Engineer & **Dual Master's Student (Software Engineering & Cybersecurity)** at Kharkiv National University of Radio Electronics (NURE).
 
-Focused on Linux administration, network diagnostics, containerized workloads, and practical host security monitoring.
+Combining a solid software engineering foundation with hands-on expertise in Linux administration, network diagnostics, containerized workloads, and host security monitoring.
 
 ---
 
