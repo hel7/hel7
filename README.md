@@ -14,7 +14,7 @@ Focused on Linux system administration, network diagnostics, container orchestra
 [![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy%20%7C%20Sockets-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Bash](https://img.shields.io/badge/Bash-Shell%20Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Systemd](https://img.shields.io/badge/Systemd-Services%20%26%20Timers-000000?style=for-the-badge)](https://systemd.io/)
+[![Systemd](https://img.shields.io/badge/Systemd-Services%20%26%20Journald-000000?style=for-the-badge)](https://systemd.io/)
 [![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 #### Observability & Monitoring
@@ -29,7 +29,6 @@ Focused on Linux system administration, network diagnostics, container orchestra
 [![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-Enterprise_Matrix-black?style=for-the-badge)](https://attack.mitre.org/)
 
 #### Programming & Databases
-[![Python](https://img.shields.io/badge/Python-Automation%20%26%20APIs-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
