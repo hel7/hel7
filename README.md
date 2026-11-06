@@ -1,42 +1,55 @@
 ### Hi, I'm Bohdan 👋
 
-Junior Systems / Infrastructure Engineer & **Dual Master's Student (Software Engineering & Cybersecurity)** at Kharkiv National University of Radio Electronics (NURE).
+**Junior Linux Infrastructure Engineer / Systems Administrator / SOC L1 Analyst**  
+Master's Student in Cybersecurity & Software Engineering at Kharkiv National University of Radio Electronics (NURE).
 
-Combining a solid software engineering foundation with hands-on expertise in Linux administration, network diagnostics, containerized workloads, and host security monitoring.
+Focused on Linux system administration, network diagnostics, container orchestration, host/network threat detection (SIEM/XDR + NIDS), and production infrastructure observability.
 
 ---
 
 ### 🛠 Technical Toolkit
 
-#### Operating Systems & Infrastructure
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-386641?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
-[![Docker](https://img.shields.io/badge/Docker-Compose-386641?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-386641?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![VMware](https://img.shields.io/badge/VMware-Workstation-386641?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-Active_Directory-386641?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
+#### Infrastructure & Linux Systems
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy%20%7C%20Sockets-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Bash](https://img.shields.io/badge/Bash-Shell%20Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Systemd](https://img.shields.io/badge/Systemd-Services%20%26%20Timers-000000?style=for-the-badge)](https://systemd.io/)
+[![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
-#### Networking & Security Monitoring
-[![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%20%2F%20XDR-386641?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-PCAP%20Inspection-386641?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Suricata](https://img.shields.io/badge/Suricata-IDS%20Rules-386641?style=for-the-badge)](https://suricata.io/)
-[![Fail2ban](https://img.shields.io/badge/Fail2ban-Host_Defense-386641?style=for-the-badge)](https://www.fail2ban.org/)
-[![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20Routing-386641?style=for-the-badge)](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+#### Observability & Monitoring
+[![Prometheus](https://img.shields.io/badge/Prometheus-Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+
+#### Security Monitoring & Defense
+[![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%20%2F%20XDR%20%2F%20Active_Response-0052CC?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Suricata](https://img.shields.io/badge/Suricata-NIDS_7.0%20DPI-C91A24?style=for-the-badge&logo=suricata&logoColor=white)](https://suricata.io/)
+[![Netfilter](https://img.shields.io/badge/Firewall-iptables%20%7C%20UFW%20%7C%20Fail2ban-386641?style=for-the-badge)](https://netfilter.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-PCAP%20%26%20TLS%20Inspection-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-Enterprise_Matrix-black?style=for-the-badge)](https://attack.mitre.org/)
 
 #### Programming & Databases
-[![Go](https://img.shields.io/badge/Go-1.22-386641?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Python](https://img.shields.io/badge/Python-Scripting-386641?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-386641?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-386641?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-Automation%20%26%20APIs-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-1.22-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ---
 
-### 📌 Featured Practical Projects
+### 📌 Featured Engineering Projects
 
-| Project | Focus Area | Key Highlights |
+| Project | Domain | Architecture & Key Deliverables |
 |---|---|---|
-| **[wazuh-host-security-lab](https://github.com/hel7/wazuh-host-security-lab)** | Host Security & SIEM | Wazuh v4.14.8 on Ubuntu, endpoint agent telemetry, real-time File Integrity Monitoring (FIM Rule 554). |
-| **[E-RequestControl](https://github.com/hel7/E-RequestControl)** | Full-Stack & Containers | Multi-container ticket system with Go Gin backend, Vue.js, MySQL, and isolated bridge network. |
-| **[CyberSecurity](https://github.com/hel7/CyberSecurity)** | Traffic Analysis & Wi-Fi | WPA2 4-way handshake auditing via Aircrack-ng, Wireshark TLS SNI/DNS metadata inspection. |
+| **[wazuh-host-security-lab](https://github.com/hel7/wazuh-host-security-lab)** | Infrastructure Security & Observability | End-to-end monitoring stack combining **Wazuh SIEM/XDR**, **Suricata NIDS**, and **Prometheus + Grafana** behind an **Nginx Reverse Proxy**. Benchmarked incident response (**MTTD: 1.51s, MTTR: 0.107s** via automated `iptables` Active Response), eliminated False Positives on IPv6 MLD multicast, and benchmarked host resources during 10k HTTP DoS attacks. |
+| **[E-RequestControl](https://github.com/hel7/E-RequestControl)** | Containerized Service Architecture | Multi-tier ticketing service deployed via Docker Compose. Features a Go Gin REST API backend, Vue.js single-page application frontend, MySQL relational persistence, and isolated bridge networking. |
+| **[CyberSecurity](https://github.com/hel7/CyberSecurity)** | Wireless Defense & Traffic Analysis | Isolated Wi-Fi access point security testing (`hostapd`, `dnsmasq`, `iptables` NAT). Audited WPA2-PSK 4-way handshakes via dictionary attacks, and performed passive traffic analysis (Wireshark TLS SNI metadata and unencrypted HTTP interception). |
+
+---
+
+### 🔍 Diagnostic & Troubleshooting Focus
+Hands-on experience identifying and fixing root causes under production-like scenarios:
+- **Web & Proxy Routing:** Nginx reverse proxy configuration (`proxy_pass`, `Host`, `X-Real-IP`), resolving `403 Forbidden` directory permissions (`chmod 755`), and fixing port binding collisions via `ss -tulpn`.
+- **Packet & Log Forensics:** Analyzing Linux `journalctl`, `/var/log/auth.log`, `access.log`, and Suricata `eve.json` / `fast.log` for multi-stage threat detection.
+- **Network Defense:** Debugging stateful firewall rules (`iptables` chains, `UFW`), configuring automated IP dropping (`fail2ban`, Wazuh `firewall-drop`), and handling defense-in-depth race conditions.
 
 ---
 
